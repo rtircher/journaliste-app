@@ -1,0 +1,23 @@
+#!/bin/sh
+
+BASE=$(dirname "$0")
+source "$BASE/.env"
+
+set -e
+
+die () {
+	echo "$0: $@"
+	exit 1
+}
+
+alias w="which >/dev/null"
+
+w bundle || die "Could not find bundler! Consider rvm, rbenv or 'gem install bundler'?"
+bundle install
+
+export PATH="$PATH:$BASE/bin"
+
+w pod || die "Could not find pod! Something is wrong with your bundler, mate."
+pod setup && pod install
+
+w xcodebuild || die "Could not find Xcode! You lucky bastard."
