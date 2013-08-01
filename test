@@ -1,0 +1,7 @@
+#! /bin/bash
+
+email="stringer"
+password="{P8+#A@7zNgv34xrBCgv"
+api_key=`md5 -qs "$email:$password"`
+
+curl "http://reader.tircher.com/fever/?api&feeds" -d "api_key=$api_key"

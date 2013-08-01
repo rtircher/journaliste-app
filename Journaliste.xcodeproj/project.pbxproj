@@ -1,772 +1,328 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>01B640691A6D494796197C08</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6A048AC0E70946FE9E82E97F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>571F15E3E3FF4F6F9D0059C3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Pods.xcconfig</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>6A048AC0E70946FE9E82E97F</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libPods.a</string>
-			<key>path</key>
-			<string>libPods.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>7CC18A8A177B3C930035D2C3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7CC18A9C177B3C930035D2C3</string>
-				<string>7CC18A95177B3C930035D2C3</string>
-				<string>7CC18A94177B3C930035D2C3</string>
-				<string>571F15E3E3FF4F6F9D0059C3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18A8B177B3C930035D2C3</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>CLASSPREFIX</key>
-				<string>Journaliste</string>
-				<key>LastUpgradeCheck</key>
-				<string>0460</string>
-				<key>ORGANIZATIONNAME</key>
-				<string>Renaud Tircher</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>7CC18A8E177B3C930035D2C3</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>7CC18A8A177B3C930035D2C3</string>
-			<key>productRefGroup</key>
-			<string>7CC18A94177B3C930035D2C3</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>7CC18A92177B3C930035D2C3</string>
-			</array>
-		</dict>
-		<key>7CC18A8E177B3C930035D2C3</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>7CC18AB1177B3C930035D2C3</string>
-				<string>7CC18AB2177B3C930035D2C3</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>7CC18A8F177B3C930035D2C3</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>7CC18AA3177B3C930035D2C3</string>
-				<string>7CC18AAA177B3C930035D2C3</string>
-				<string>7CC18AB0177B3C930035D2C3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7CC18A90177B3C930035D2C3</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>7CC18A97177B3C930035D2C3</string>
-				<string>01B640691A6D494796197C08</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7CC18A91177B3C930035D2C3</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>7CC18AA1177B3C930035D2C3</string>
-				<string>7CC18AA7177B3C930035D2C3</string>
-				<string>7CC18AAD177B3C930035D2C3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7CC18A92177B3C930035D2C3</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>7CC18AB3177B3C930035D2C3</string>
-			<key>buildPhases</key>
-			<array>
-				<string>83AE720561EC4B98A1EC1CA7</string>
-				<string>7CC18A8F177B3C930035D2C3</string>
-				<string>7CC18A90177B3C930035D2C3</string>
-				<string>7CC18A91177B3C930035D2C3</string>
-				<string>AB5FCE8D06FE4DFABC0EB5EA</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Journaliste</string>
-			<key>productName</key>
-			<string>Journaliste</string>
-			<key>productReference</key>
-			<string>7CC18A93177B3C930035D2C3</string>
-			<key>productType</key>
-			<string>com.apple.product-type.application</string>
-		</dict>
-		<key>7CC18A93177B3C930035D2C3</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.application</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Journaliste.app</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>7CC18A94177B3C930035D2C3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7CC18A93177B3C930035D2C3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18A95177B3C930035D2C3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7CC18A96177B3C930035D2C3</string>
-				<string>7CC18A98177B3C930035D2C3</string>
-				<string>6A048AC0E70946FE9E82E97F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18A96177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Cocoa.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/Cocoa.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>7CC18A97177B3C930035D2C3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7CC18A96177B3C930035D2C3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7CC18A98177B3C930035D2C3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7CC18A99177B3C930035D2C3</string>
-				<string>7CC18A9A177B3C930035D2C3</string>
-				<string>7CC18A9B177B3C930035D2C3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Other Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18A99177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>AppKit.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/AppKit.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>7CC18A9A177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreData.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/CoreData.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>7CC18A9B177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>7CC18A9C177B3C930035D2C3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7CC18AA8177B3C930035D2C3</string>
-				<string>7CC18AA9177B3C930035D2C3</string>
-				<string>7CC18AAB177B3C930035D2C3</string>
-				<string>7CC18AAE177B3C930035D2C3</string>
-				<string>7CC18A9D177B3C930035D2C3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Journaliste</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18A9D177B3C930035D2C3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7CC18A9E177B3C930035D2C3</string>
-				<string>7CC18A9F177B3C930035D2C3</string>
-				<string>7CC18AA2177B3C930035D2C3</string>
-				<string>7CC18AA4177B3C930035D2C3</string>
-				<string>7CC18AA5177B3C930035D2C3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Supporting Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18A9E177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Journaliste-Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18A9F177B3C930035D2C3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7CC18AA0177B3C930035D2C3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AA0177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.strings</string>
-			<key>name</key>
-			<string>en</string>
-			<key>path</key>
-			<string>en.lproj/InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AA1177B3C930035D2C3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7CC18A9F177B3C930035D2C3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7CC18AA2177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>main.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AA3177B3C930035D2C3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7CC18AA2177B3C930035D2C3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7CC18AA4177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Journaliste-Prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AA5177B3C930035D2C3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7CC18AA6177B3C930035D2C3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>Credits.rtf</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AA6177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.rtf</string>
-			<key>name</key>
-			<string>en</string>
-			<key>path</key>
-			<string>en.lproj/Credits.rtf</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AA7177B3C930035D2C3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7CC18AA5177B3C930035D2C3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7CC18AA8177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>JournalisteAppDelegate.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AA9177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>JournalisteAppDelegate.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AAA177B3C930035D2C3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7CC18AA9177B3C930035D2C3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7CC18AAB177B3C930035D2C3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7CC18AAC177B3C930035D2C3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>MainMenu.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AAC177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.xib</string>
-			<key>name</key>
-			<string>en</string>
-			<key>path</key>
-			<string>en.lproj/MainMenu.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AAD177B3C930035D2C3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7CC18AAB177B3C930035D2C3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7CC18AAE177B3C930035D2C3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7CC18AAF177B3C930035D2C3</string>
-			</array>
-			<key>currentVersion</key>
-			<string>7CC18AAF177B3C930035D2C3</string>
-			<key>isa</key>
-			<string>XCVersionGroup</string>
-			<key>path</key>
-			<string>Journaliste.xcdatamodeld</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-			<key>versionGroupType</key>
-			<string>wrapper.xcdatamodel</string>
-		</dict>
-		<key>7CC18AAF177B3C930035D2C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.xcdatamodel</string>
-			<key>path</key>
-			<string>Journaliste.xcdatamodel</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7CC18AB0177B3C930035D2C3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7CC18AAE177B3C930035D2C3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7CC18AB1177B3C930035D2C3</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_64_BIT)</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_ENABLE_OBJC_EXCEPTIONS</key>
-				<string>YES</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>MACOSX_DEPLOYMENT_TARGET</key>
-				<string>10.8</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>SDKROOT</key>
-				<string>macosx</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>7CC18AB2177B3C930035D2C3</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_64_BIT)</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_ENABLE_OBJC_EXCEPTIONS</key>
-				<string>YES</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>MACOSX_DEPLOYMENT_TARGET</key>
-				<string>10.8</string>
-				<key>SDKROOT</key>
-				<string>macosx</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>7CC18AB3177B3C930035D2C3</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>7CC18AB4177B3C930035D2C3</string>
-				<string>7CC18AB5177B3C930035D2C3</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>7CC18AB4177B3C930035D2C3</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>571F15E3E3FF4F6F9D0059C3</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>COMBINE_HIDPI_IMAGES</key>
-				<string>YES</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Journaliste/Journaliste-Prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Journaliste/Journaliste-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>app</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>7CC18AB5177B3C930035D2C3</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>571F15E3E3FF4F6F9D0059C3</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>COMBINE_HIDPI_IMAGES</key>
-				<string>YES</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Journaliste/Journaliste-Prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Journaliste/Journaliste-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>app</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>83AE720561EC4B98A1EC1CA7</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Check Pods Manifest.lock</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>diff "${PODS_ROOT}/../Podfile.lock" "${PODS_ROOT}/Manifest.lock" &gt; /dev/null
-if [[ $? != 0 ]] ; then
-    cat &lt;&lt; EOM
-error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.
-EOM
-    exit 1
-fi
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>1</string>
-		</dict>
-		<key>AB5FCE8D06FE4DFABC0EB5EA</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Pods-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>1</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>7CC18A8B177B3C930035D2C3</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7C9C8EB517AA992C0098720E /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C9C8EB417AA992C0098720E /* Cocoa.framework */; };
+		7C9C8EBF17AA992C0098720E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7C9C8EBD17AA992C0098720E /* InfoPlist.strings */; };
+		7C9C8EC117AA992C0098720E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C9C8EC017AA992C0098720E /* main.m */; };
+		7C9C8EC517AA992C0098720E /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 7C9C8EC317AA992C0098720E /* Credits.rtf */; };
+		7C9C8EC817AA992C0098720E /* JournalisteAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C9C8EC717AA992C0098720E /* JournalisteAppDelegate.m */; };
+		7C9C8ECB17AA992C0098720E /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C9C8EC917AA992C0098720E /* MainMenu.xib */; };
+		7C9C8ECE17AA992C0098720E /* Journaliste.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7C9C8ECC17AA992C0098720E /* Journaliste.xcdatamodeld */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		7C9C8EB117AA992C0098720E /* Journaliste.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Journaliste.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C9C8EB417AA992C0098720E /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		7C9C8EB717AA992C0098720E /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		7C9C8EB817AA992C0098720E /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		7C9C8EB917AA992C0098720E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		7C9C8EBC17AA992C0098720E /* Journaliste-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Journaliste-Info.plist"; sourceTree = "<group>"; };
+		7C9C8EBE17AA992C0098720E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		7C9C8EC017AA992C0098720E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7C9C8EC217AA992C0098720E /* Journaliste-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Journaliste-Prefix.pch"; sourceTree = "<group>"; };
+		7C9C8EC417AA992C0098720E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		7C9C8EC617AA992C0098720E /* JournalisteAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JournalisteAppDelegate.h; sourceTree = "<group>"; };
+		7C9C8EC717AA992C0098720E /* JournalisteAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JournalisteAppDelegate.m; sourceTree = "<group>"; };
+		7C9C8ECA17AA992C0098720E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		7C9C8ECD17AA992C0098720E /* Journaliste.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Journaliste.xcdatamodel; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7C9C8EAE17AA992C0098720E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C9C8EB517AA992C0098720E /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7C9C8EA817AA992C0098720E = {
+			isa = PBXGroup;
+			children = (
+				7C9C8EBA17AA992C0098720E /* Journaliste */,
+				7C9C8EB317AA992C0098720E /* Frameworks */,
+				7C9C8EB217AA992C0098720E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7C9C8EB217AA992C0098720E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7C9C8EB117AA992C0098720E /* Journaliste.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7C9C8EB317AA992C0098720E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7C9C8EB417AA992C0098720E /* Cocoa.framework */,
+				7C9C8EB617AA992C0098720E /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7C9C8EB617AA992C0098720E /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7C9C8EB717AA992C0098720E /* AppKit.framework */,
+				7C9C8EB817AA992C0098720E /* CoreData.framework */,
+				7C9C8EB917AA992C0098720E /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		7C9C8EBA17AA992C0098720E /* Journaliste */ = {
+			isa = PBXGroup;
+			children = (
+				7C9C8EC617AA992C0098720E /* JournalisteAppDelegate.h */,
+				7C9C8EC717AA992C0098720E /* JournalisteAppDelegate.m */,
+				7C9C8EC917AA992C0098720E /* MainMenu.xib */,
+				7C9C8ECC17AA992C0098720E /* Journaliste.xcdatamodeld */,
+				7C9C8EBB17AA992C0098720E /* Supporting Files */,
+			);
+			path = Journaliste;
+			sourceTree = "<group>";
+		};
+		7C9C8EBB17AA992C0098720E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7C9C8EBC17AA992C0098720E /* Journaliste-Info.plist */,
+				7C9C8EBD17AA992C0098720E /* InfoPlist.strings */,
+				7C9C8EC017AA992C0098720E /* main.m */,
+				7C9C8EC217AA992C0098720E /* Journaliste-Prefix.pch */,
+				7C9C8EC317AA992C0098720E /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7C9C8EB017AA992C0098720E /* Journaliste */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7C9C8ED117AA992C0098720E /* Build configuration list for PBXNativeTarget "Journaliste" */;
+			buildPhases = (
+				7C9C8EAD17AA992C0098720E /* Sources */,
+				7C9C8EAE17AA992C0098720E /* Frameworks */,
+				7C9C8EAF17AA992C0098720E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Journaliste;
+			productName = Journaliste;
+			productReference = 7C9C8EB117AA992C0098720E /* Journaliste.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7C9C8EA917AA992C0098720E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = Journaliste;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Renaud Tircher";
+			};
+			buildConfigurationList = 7C9C8EAC17AA992C0098720E /* Build configuration list for PBXProject "Journaliste" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7C9C8EA817AA992C0098720E;
+			productRefGroup = 7C9C8EB217AA992C0098720E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7C9C8EB017AA992C0098720E /* Journaliste */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7C9C8EAF17AA992C0098720E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C9C8EBF17AA992C0098720E /* InfoPlist.strings in Resources */,
+				7C9C8EC517AA992C0098720E /* Credits.rtf in Resources */,
+				7C9C8ECB17AA992C0098720E /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7C9C8EAD17AA992C0098720E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C9C8EC117AA992C0098720E /* main.m in Sources */,
+				7C9C8EC817AA992C0098720E /* JournalisteAppDelegate.m in Sources */,
+				7C9C8ECE17AA992C0098720E /* Journaliste.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7C9C8EBD17AA992C0098720E /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7C9C8EBE17AA992C0098720E /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		7C9C8EC317AA992C0098720E /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7C9C8EC417AA992C0098720E /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		7C9C8EC917AA992C0098720E /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7C9C8ECA17AA992C0098720E /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7C9C8ECF17AA992C0098720E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		7C9C8ED017AA992C0098720E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		7C9C8ED217AA992C0098720E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Journaliste/Journaliste-Prefix.pch";
+				INFOPLIST_FILE = "Journaliste/Journaliste-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		7C9C8ED317AA992C0098720E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Journaliste/Journaliste-Prefix.pch";
+				INFOPLIST_FILE = "Journaliste/Journaliste-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7C9C8EAC17AA992C0098720E /* Build configuration list for PBXProject "Journaliste" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7C9C8ECF17AA992C0098720E /* Debug */,
+				7C9C8ED017AA992C0098720E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7C9C8ED117AA992C0098720E /* Build configuration list for PBXNativeTarget "Journaliste" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7C9C8ED217AA992C0098720E /* Debug */,
+				7C9C8ED317AA992C0098720E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		7C9C8ECC17AA992C0098720E /* Journaliste.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				7C9C8ECD17AA992C0098720E /* Journaliste.xcdatamodel */,
+			);
+			currentVersion = 7C9C8ECD17AA992C0098720E /* Journaliste.xcdatamodel */;
+			path = Journaliste.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 7C9C8EA917AA992C0098720E /* Project object */;
+}
